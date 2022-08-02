@@ -18,16 +18,16 @@ The software, module and hardware list is given below.
 
 * Software
 
-> Python 3.8.8 and above
+> Python 3.7.3 and above
 
 * Module
 
 name | version | build | channel 
 ------------ | ------------- | ------------- | -------------
-numpy | 1.19.5 | pypi_0 | pypi
-sympy | 1.8 | py38hecd8cb5_0 | 
-matplotlib | 3.3.4 | py38hecd8cb5_0 |
-seaborn | 0.11.1 | pyhd3eb1b0_0 | 
+numpy | 1.16.2  | py37hacdab7b_0 | 
+sympy | 1.3 | py37_0 | 
+matplotlib | 3.0.3 | py37h54f8f79_0 |
+seaborn | 0.9.0 | py37_0 | 
 mpl_toolkits 
 warnings 
 
