@@ -38,7 +38,7 @@ warnings
 > Mac OS X, Windows, or Linux
 
 
-We use Anaconda GUI to run our code (which comes with the packages automatically installed). Otherwise, we may run `pip install` with the name and version for every candidate item.
+We use Anaconda GUI to run our code (which comes with the packages assembled). Otherwise, we may run `pip install` with the name and version for every candidate item.
 
 
 ### Get Started
