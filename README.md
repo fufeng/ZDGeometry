@@ -10,14 +10,6 @@ The notations in the code are consistent with those in the manuscript.
 
 The order of the code is aligned with that of the manuscript.
 
-### Geometry.ipynb
-
-> variables, functions, and figures
-
-* symbols 
-* plotting and graphing
-
-
 ## Instructions
 
 The code is organized into an ipython notebook. 
